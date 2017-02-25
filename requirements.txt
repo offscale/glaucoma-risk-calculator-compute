@@ -1,0 +1,1 @@
+https://github.com/scikit-learn-contrib/py-earth/tarball/master#egg=pyearth-0.1.0
